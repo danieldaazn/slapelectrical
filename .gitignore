@@ -6,6 +6,7 @@
 *.kicad_pcb-bak
 *.sch-bak
 *.DS_store
+*.lck
 *~
 _autosave-*
 *.tmp
